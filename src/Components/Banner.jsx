@@ -9,7 +9,7 @@ export default function Banner() {
            Discover an exceptional cooking class tailored for you!
             </h1>
             <p className='text-lg text-white   font-normal'>
-              Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.
+            Join our exclusive cooking class, where expert chefs guide you through mastering essential culinary skills. Whether you're a beginner or looking to elevate your cooking, our hands-on lessons will inspire creativity and confidence in the kitchen!
              </p>
              <div className='flex gap-4 text-xl font-semibold'>
                 <button className='btn bg-green-400 rounded-full border-none'>
