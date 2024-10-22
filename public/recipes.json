@@ -1,0 +1,95 @@
+{
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken with Basil",
+        "recipe_image": "https://i.ibb.co.com/XC9WLy6/pexels-farhad-5713761.jpg",
+        "short_description": "A delicious grilled chicken dish with a blend of fresh basil and soy sauce.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g basil leaf",
+          "400 g mushroom",
+          "2 cloves garlic"
+        ],
+        "preparing_time": 30,
+        "calories": 320
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Stir-fry",
+        "recipe_image": "https://i.ibb.co.com/hVQnn7c/pexels-1155579-2365940.jpg",
+        "short_description": "A healthy and colorful vegetable stir-fry with a variety of fresh vegetables.",
+        "ingredients": [
+          "1 red bell pepper",
+          "200 g broccoli",
+          "150 g carrots",
+          "100 g snow peas",
+          "50 ml soy sauce"
+        ],
+        "preparing_time": 20,
+        "calories": 200
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_image": "https://i.ibb.co.com/bPQG157/pasta-dish-restaurant-table.jpg",
+        "short_description": "Classic Italian pasta dish with creamy egg sauce, bacon, and cheese.",
+        "ingredients": [
+          "200 g spaghetti",
+          "100 g bacon",
+          "2 eggs",
+          "50 g Parmesan cheese",
+          "2 cloves garlic"
+        ],
+        "preparing_time": 25,
+        "calories": 450
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Mango Smoothie",
+        "recipe_image": "https://i.ibb.co.com/vQbHvWx/mango-shake-fresh-tropical-fruit-smoothies.jpg",
+        "short_description": "A refreshing mango smoothie made with ripe mangoes and yogurt.",
+        "ingredients": [
+          "1 ripe mango",
+          "200 ml yogurt",
+          "100 ml milk",
+          "1 tbsp honey",
+          "5 ice cubes"
+        ],
+        "preparing_time": 10,
+        "calories": 150
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Avocado Toast",
+        "recipe_image": "https://i.ibb.co.com/vwB1H8b/tasty-appetizing-crispbread-with-mashed-avocado-served-plate.jpg",
+        "short_description": "Simple and nutritious avocado toast with a sprinkle of salt and pepper.",
+        "ingredients": [
+          "1 avocado",
+          "2 slices of bread",
+          "1 tsp olive oil",
+          "Salt to taste",
+          "Pepper to taste"
+        ],
+        "preparing_time": 10,
+        "calories": 250
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Beef Tacos",
+        "recipe_image": "https://i.ibb.co.com/sj5xf3g/mexican-tacos-with-meat-vegetables-cheese.jpg",
+        "short_description": "Tasty beef tacos with seasoned ground beef, cheese, and salsa.",
+        "ingredients": [
+          "200 g ground beef",
+          "50 g cheese",
+          "100 g lettuce",
+          "4 taco shells",
+          "50 ml salsa"
+        ],
+        "preparing_time": 20,
+        "calories": 400
+      }
+    ]
+  }
+  
